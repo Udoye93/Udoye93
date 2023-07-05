@@ -1,10 +1,12 @@
-Background of Enterprise
+BACKGROUND OF ENTERPRISE
+
 Drac Furniture Limited is a small retail/furniture-making company that specializes in the production and sale of furniture and accessories. They operate only a walk-in store and can only manage the needs of local customers. The company, however, wants to expand both physically and online to be able to accommodate its expanding customer base and improve operational efficiency. Drac Furniture wants to make use of cloud technology to enhance its IT setup.
 
-Current IT Setup
+CURRENT IT SETUP
+
 Drac Furniture's current IT setup is basically non-existent, aside from the email services provided by their internet service provider, Drac Furniture has no IT setup.
 
-Recommendations
+RECOMMENDATIONS
 
 1. Contrast of Cloud vs Non-cloud Solutions for Each Aspect of the Infrastructure
 a. Email Services:
@@ -24,7 +26,8 @@ c. File Storage and Sharing:
 
 NON-CLOUD: Drac Furniture can hire someone to develop an on-premises file storage system. This strategy offers direct control over the data and may be appropriate for firms with specific security and regulatory requirements.
 
-2. Recommendation for Each Aspect of the Infrastructure
+2. RECOMMENDATION FOR EACH ASPECT OF TE INFRASTRUCTURE
+3. 
 
 a. Email Services:
 Recommendation: Switch to cloud-based email service.
@@ -48,7 +51,8 @@ Service Level: Choose a trusted cloud storage service like Google Drive or Micro
 Deployment Type: Make use of a Software-as-a-Service (SaaS) deployment strategy so that you may use the provider's infrastructure and profit from frequent upgrades and maintenance.
 
 
-3. Justification for Each Final Recommendation
+3. JUSTIFICATION FOR EACH FINAL RECOMMENDATION
+4. 
 
 a. Email Services:
 
